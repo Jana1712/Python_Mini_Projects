@@ -35,4 +35,25 @@ while True:
     
     
     
-    
+
+# output:
+
+PS C:\Users\Janakiraman B\Downloads\Udemy Certificates\Projects\python mini projects> & "C:/Users/Janakiraman B/AppData/Local/Microsoft/WindowsApps/python3.13.exe" "c:/Users/Janakiraman B/Downloads/Udemy Certificates/Projects/python mini projects/numberguessinggame.py"
+Welcome to the number guessing game!
+I chosen a number between 1 and 100 . Can you guess it ?
+Enter your guess number (or type 'quit' to exit): 45
+Too high! Try again.
+Enter your guess number (or type 'quit' to exit): 5
+Too low! Try again.
+Enter your guess number (or type 'quit' to exit): 20
+Too high! Try again.
+Enter your guess number (or type 'quit' to exit): 17
+Too high! Try again.
+Enter your guess number (or type 'quit' to exit): 14
+Too low! Try again.
+Enter your guess number (or type 'quit' to exit): 15
+Too low! Try again.
+Enter your guess number (or type 'quit' to exit): 16
+Congralutions! you guessed the number in 7.
+
+
