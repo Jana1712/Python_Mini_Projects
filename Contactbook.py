@@ -18,4 +18,22 @@ while True:
     elif choice == '3':
         break
     else:
+
         print("Invalid choice!")
+
+
+
+# OUTPUT
+
+1. Add Contact 2. View Contacts 3. Quit: 1
+Enter name: jana
+Enter phone number: 9962404206
+1. Add Contact 2. View Contacts 3. Quit: 2
+jana: 9962404206
+1. Add Contact 2. View Contacts 3. Quit: 1
+Enter name: suresh
+Enter phone number: 8925406765  
+1. Add Contact 2. View Contacts 3. Quit: 2
+jana: 9962404206
+suresh: 8925406765
+1. Add Contact 2. View Contacts 3. Quit:
