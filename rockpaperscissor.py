@@ -14,4 +14,21 @@ def rps_game():
         print("You lose!")
     print(f"Computer chose: {computer_choice}")
 
+
 rps_game()
+
+
+
+#OUTPUT
+
+Choose rock, paper, or scissors: scissors
+You lose!
+Computer chose: rock
+
+Choose rock, paper, or scissors: paper
+You lose!
+Computer chose: scissors
+
+Choose rock, paper, or scissors: rock
+You win!
+Computer chose: scissors
