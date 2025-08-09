@@ -29,4 +29,9 @@ def hangman():
     if attempts == 0:
         print(f"You lost! The word was {''.join(word)}.")
 
+
 hangman()
+
+
+#output 
+
