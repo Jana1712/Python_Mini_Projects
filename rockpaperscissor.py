@@ -30,5 +30,10 @@ You lose!
 Computer chose: scissors
 
 Choose rock, paper, or scissors: rock
+You lose!
+Computer chose: paper
+
+Choose rock, paper, or scissors: rock
 You win!
 Computer chose: scissors
+
