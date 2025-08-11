@@ -14,5 +14,6 @@ print(f"Generated Password: {password_generator(length)}")
 #OUTPUT
 
 /WindowsApps/python3.13.exe" "c:/Users/Janakiraman B/Downloads/Udemy Certificates/Projects/python mini projects/PasswordGenerator.py"
-Enter the length of the password: 10
-Generated Password: +uzw==3WPn
+Enter the length of the password: 13
+Generated Password: +uzw==3WPnd45
+
