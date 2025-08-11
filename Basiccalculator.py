@@ -45,9 +45,9 @@ Please select operation -
 4. Divide
 
 Select operation (1-4): 2
-Enter first number: 45
+Enter first number: 50
 Enter second number: 30
-45 - 30 = 15
+50 - 30 = 20
 PS C:\Users\Janakiraman B\Downloads\Udemy Certificates\Projects\python mini projects> & "C:/Users/Janakiraman B/AppData/Local/Microsoft/WindowsApps/python3.13.exe" "c:/Users/Janakiraman B/Downloads/Udemy Certificates/Projects/python mini projects/Basiccalculator.py"
 Please select operation -
 1. Add
@@ -70,3 +70,4 @@ Select operation (1-4): 3
 Enter first number: 4
 Enter second number: 5
 4 * 5 = 20
+
