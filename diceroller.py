@@ -13,4 +13,13 @@ while roll_again == "yes" or roll_again == "y":
   
     print(random.randint(min_val, max_val))
     
+
     roll_again = input("Roll the Dices Again?") 
+
+#OUTPUT
+
+Rolling The Dices...
+The Values are :
+3
+4
+Roll the Dices Again?
