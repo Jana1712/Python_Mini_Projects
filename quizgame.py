@@ -23,3 +23,9 @@ What is 2 + 2? 4
 What is the color of the sky? red
 Your score is 2/3
 
+# Output2
+
+What is the capital of France? paris
+What is 2 + 2? 4
+What is the color of the sky? blue
+Your score is 3/3
