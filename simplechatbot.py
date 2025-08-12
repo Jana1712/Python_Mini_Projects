@@ -8,4 +8,15 @@ def chatbot():
         else:
             print(f"Bot: You said '{user_input}'")
 
+
 chatbot()
+
+
+#Output
+
+You: hi
+Bot: You said 'hi'
+You: welcome
+Bot: You said 'welcome'
+You: quit
+Goodbye!
