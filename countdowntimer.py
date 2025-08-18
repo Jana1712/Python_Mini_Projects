@@ -12,4 +12,11 @@ def countdown(t):
 
 t = input("Enter the time in seconds: ")
 
+
 countdown(int(t))
+
+
+#OUTPUT
+
+Enter the time in seconds: 5
+Wake up your time is over!
