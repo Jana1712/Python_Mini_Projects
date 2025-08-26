@@ -23,3 +23,16 @@ The Values are :
 3
 4
 Roll the Dices Again?
+
+Rolling The Dices...
+The Values are :
+5
+6
+Roll the Dices Again?
+
+Rolling The Dices...
+The Values are :
+1
+4
+Roll the Dices Again?
+
