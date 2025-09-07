@@ -20,6 +20,9 @@ You: welcome
 Bot: You said 'welcome'
 You: Good morning
 Bot: You said 'Good morning'
+You: Good Afternoon
+Bot: You said 'Good Afternoon'
 You: quit
 Goodbye!
+
 
