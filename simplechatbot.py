@@ -18,5 +18,8 @@ You: hi
 Bot: You said 'hi'
 You: welcome
 Bot: You said 'welcome'
+You: Good morning
+Bot: You said 'Good morning'
 You: quit
 Goodbye!
+
