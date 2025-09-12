@@ -74,4 +74,10 @@ if __name__ == "__main__":
             result = result[: len(result) - 1]
 
 
+
     print("Relationship status :", result[0])
+
+
+
+output : 
+
